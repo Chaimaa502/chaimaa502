@@ -14,5 +14,72 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=chaimaa502&icon=0&color=0)](https://visitcount.itsvg.in)
+💼 Experience
+🧠 AI & Data Engineering Intern — D&A Technologies
+
+Jul 2026 – Sep 2026
+
+Built automated ETL pipelines using PySpark, Airflow, PostgreSQL and Docker.
+Implemented Medallion Architecture (Bronze → Silver → Gold).
+Processed Sage X3 ERP exports with deduplication and business-rule validation.
+Designed a Kimball star-schema data mart for supply-chain analytics.
+Implemented role-based analytics with Row-Level Security.
+Developed a configurable Text-to-SQL API using Python, FastAPI, LangChain and RAG.
+Added SQL validation, caching and user feedback mechanisms to improve AI-generated queries.
+📊 Data Analyst Intern — HPS
+
+Jul 2025 – Sep 2025
+
+Automated PowerCARD transaction reconciliation using Python, pandas and SQL.
+Implemented data cleaning, validation and anomaly detection.
+Developed Power BI dashboards with DAX.
+Built a Flask application for automated file comparison and discrepancy analysis.
+👩‍💻 Data & AI Mentor — DigiGirlz Morocco
+
+Feb 2025 – Aug 2025
+
+Delivered practical workshops in Python, SQL and data storytelling.
+Supported young women in developing data and technology skills.
+🚀 Featured Projects
+⚡ RealTimeFinHub — Real-Time Data Pipeline
+
+Python · Kafka · Airflow · Snowflake · dbt · Docker · MinIO
+
+Built an end-to-end real-time stock market data pipeline.
+Implemented API ingestion and Kafka streaming.
+Used MinIO for data storage and Snowflake for analytics.
+Designed a Bronze → Silver → Gold architecture.
+Orchestrated workflows with Airflow.
+Applied dbt transformations.
+Containerized the platform with Docker.
+☁️ Real-Time Cloud Data Engineering Platform
+
+Azure · Databricks · PySpark · ADF · Event Hubs · Delta Lake
+
+Built an end-to-end Azure cloud data platform.
+Implemented batch and real-time data processing.
+Developed PySpark and Structured Streaming pipelines.
+Implemented incremental loading and metadata-driven processing.
+Applied SCD and Medallion Architecture.
+Designed analytical star schemas.
+🤖 Financial Anomaly Detection
+
+Python · scikit-learn · FastAPI · Power BI
+
+Built an unsupervised Machine Learning pipeline.
+Implemented Isolation Forest for anomaly detection.
+Explored Autoencoder-based anomaly detection.
+Served the ML pipeline using FastAPI.
+Visualized results with Power BI.
+🧠 AI Text-to-SQL Assistant
+
+Python · FastAPI · LangChain · RAG · PostgreSQL · LLMs
+
+Developed a natural-language interface for querying enterprise data.
+Implemented Natural Language → SQL generation.
+Used RAG and semantic retrieval for database context.
+Added SQL validation and business-rule validation.
+Implemented query caching and feedback loops.
+Integrated role-based access control.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
